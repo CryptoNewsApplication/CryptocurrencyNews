@@ -4,7 +4,11 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+        "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

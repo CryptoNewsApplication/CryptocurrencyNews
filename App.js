@@ -1,10 +1,27 @@
 // register screens and start app
 import { Navigation } from 'react-native-navigation';
+import { Provider } from 'react-redux';
 
 import AuthScreen from './src/screens/Auth/Auth'
+import NewsFeed from './src/screens/NewsFeed/NewsFeed'
+import NewsFeedOne from './src/screens/NewsFeed/NewsFeedOne/NewsFeedOne'
+import NewsFeedTwo from './src/screens/NewsFeed/NewsFeedTwo/NewsFeedTwo'
+import PlaceDetail from './src/screens/PlaceDetail/PlaceDetail'
+import SideDrawer from './src/screens/SideDrawer/SideDrawer'
+
+import configureStore from './src/store/configureStore';
+
+const store = configureStore();
 
 //Register screens
-Navigation.registerComponent("ilryapp.AuthScreen", () => AuthScreen);
+Navigation.registerComponent("ilryapp.AuthScreen", () => AuthScreen, store, Provider);
+Navigation.registerComponent("ilryapp.NewsFeed", () => NewsFeed, store, Provider);
+
+Navigation.registerComponent("ilryapp.NewsFeedOne", () => NewsFeedOne, store, Provider);
+Navigation.registerComponent("ilryapp.NewsFeedTwo", () => NewsFeedTwo, store, Provider);
+Navigation.registerComponent("ilryapp.PlaceDetail", () => PlaceDetail, store, Provider);
+
+Navigation.registerComponent("ilryapp.SideDrawer", () => SideDrawer);
 
 //Start a app
 Navigation.startSingleScreenApp({

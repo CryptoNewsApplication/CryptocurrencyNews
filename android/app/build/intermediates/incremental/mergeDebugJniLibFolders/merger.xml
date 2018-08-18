@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/src/debug/jniLibs"/></dataSet></merger>
