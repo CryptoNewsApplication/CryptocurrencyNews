@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_7c112ff2cd6c677f2e3347d9989154aa463722ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f6ff1728c297524e82b875ce2dfda946f4bca41">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-1.5.4_91dd2bc652c421d8ee646ba52fbe3ba34a1c698f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_c320a17536914299051d2e9b6112febe537b1fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_d625bfe5224a7dbe77ff1f8e5c5181c34d0aad09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_53cf975cbe4ce6f144c940ac99b7b87c7577a2a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_2ce8f0f23ec1e979cfaa3c16ffc2b0fd09179d00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_e4a0d541bb2efc2e31fde2af5969bf3ea2da969b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_4455a85d1bcb68e9d574ac87e3e3626117573968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c941fff29a513eeaf0cb25f7d8aee57ebb19965b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_368daa11e46e7fc41ab5b9aba3b3c108fe54377b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_bc568d11e3def60778f5ded3beca587827c0eb93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_e8adb11dcc1dc4093d46f5eaed5b206bc3ede58c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_8a1df057af8925b9813dadd9b57934c2edae3b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-vector-icons-unspecified_61aacf5aaedd048e09dd8495d5084a1fc6308e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_41c901464de141b2759cbaee9edc7cbe0f24cc7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_1ac30576f0837ac76a938fd748cf8462bfeadd68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a74abdb49747c8385b0e8dd8d9c64c70ebbef6b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a12ff21e95cb7b67f9ec573e0219a326df8731e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu-toolbar/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="55d7bf547c88cb7c8c7c5cdbf3b06dd66c9750f8">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.balysv.materialmenu-material-menu-toolbar-1.5.4_5852b903f89dc57b924a57f4c7f178a023d3db20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_b89c985d0803f1171520573777982ab8bbab587c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_059a69e21526a915a062b95c77e8f0559e8d951e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_202afe4bbc92895546eea55c4f56ee438b5d0805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_d9b2470ce9ee51a402d7b9e46440ca7c40166048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_d04500cd3136a3e7e1293df3798173dc83695ede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_58b2c0da33857c01f8af1bad252f23dff2cf0ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_765a42801a36cdd2b885b5e7c8fe6f3dac4635f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.aurelhubert/ahbottomnavigation/2.0.6/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c8ba41bea7f78f8bdf3a803b9d08eb3fff416706">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.aurelhubert-ahbottomnavigation-2.0.6_1527cb75ce7068df52b3ac01f8072bfae00586f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_673540cc44c045c024c059c0ef4f9cd4bb523bbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_0b95036180802a13e76ba77738bc2f196351d06c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="231a7c0e8b325da7c38e52360891eb93c7f3faca">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-navigation-unspecified_413e4bcc3ffe14c58543b0bfc249b3fa14549058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_71d0dca56331d9717e08afc9110c39fc2572df9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_511c21610545842d2de99fd2d587f004d0b339b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_60386850578cc326e6a38d6f340c5e103be07e93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_ee12ed596742fdaad5faa4d5ac369928b622d9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0a2cb22666629376239a655255875e65fb8604bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/alessiospallino/Desktop/rn-course ONE/rn-course/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_00782c82c357659f979d0c936f1f3e2b278c6875.jar" />
+    </item>
+
+</items>
