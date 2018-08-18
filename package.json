@@ -18,12 +18,16 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "moment": "^2.22.2",
+    "native-base": "^2.5.1",
     "react": "16.3.1",
     "react-native": "0.55.4",
+    "react-native-datepicker": "^1.7.2",
     "react-native-navigation": "^1.1.468",
+    "react-native-tab-view": "^1.0.2",
     "react-native-vector-icons": "^4.6.0",
-    "react-navigation": "^2.2.3",
     "react-redux": "^5.0.7",
-    "redux": "^4.0.0"
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
   }
 }

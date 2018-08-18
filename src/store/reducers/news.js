@@ -1,18 +1,30 @@
-import { ADD_PLACE, DELETE_PLACE } from "../actions/actionTypes";
+import { ADD_PLACE, DELETE_PLACE, SET_NEWS } from "../actions/actionTypes";
 
 const initialState = {
-    places: []
+    news: [],
+    ilryNews: [],
+    ytnNews: [],
+    insinooriNews: [],
+    akavaNews: []
 };
 
 //if we don't have a state, we start from the initial one (state = initialState)
 const reducer = (state = initialState, action) => {
     switch (action.type) {
+        case SET_NEWS:
+            return {
+                ...state,
+                ilryNews: action.ilryNews,
+                ytnNews: action.ytnNews,
+                insinooriNews: action.insinooriNews,
+                akavaNews: action.akavaNews
+            };
         case ADD_PLACE:
             return {
                 ...state, //old property, old state
-                places: state.places.concat({
+                news: state.news.concat({
                     key: Math.random(), 
-                    name: action.placeName,
+                    name: action.newsName,
                     image: {
                       uri: "http://www.1t23.com/images/bahamas.jpg"
                     }
@@ -21,10 +33,10 @@ const reducer = (state = initialState, action) => {
         case DELETE_PLACE:
             return {
                 ...state,
-                places: state.places.filter(place => {
-                    return place.key !== action.placeKey;
+                news: state.news.filter(oneNews => {
+                    return oneNews.key !== action.placeKey;
                   }),
-                  selectedPlace: null
+                  selectedNews: null
             };
         default:
             return state;

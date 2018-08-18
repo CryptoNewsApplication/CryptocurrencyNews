@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-
+import { Dimensions } from 'react-native';
 import { Navigation } from 'react-native-navigation';
+import Platform from 'react-native';
 
 import Icon from 'react-native-vector-icons/Ionicons';
 
@@ -13,16 +14,14 @@ const startTabs = () => {
     When the work is done and the images are loaded, we load also the tabs view. */
 
     Promise.all([
-        Icon.getImageSource("ios-book-outline", 30),
-        Icon.getImageSource("ios-menu", 30)
-    ]).then(sources => { 
+        Icon.getImageSource(Platform.OS === 'android' ? "md-book-outline" : "ios-book-outline", 30),
+        Icon.getImageSource(Platform.OS === 'android' ? "md-menu" : "ios-menu", 30)
+    ]).then(sources => {
         
-      Navigation.startTabBasedApp({
-        tabs: [
+      Navigation.startSingleScreenApp({ //startTabBasedApp
+        screen: //[
           {
-              screen: "ilryapp.NewsFeedOne",
-              label: "Share Place",
-              title: "Share Place",
+              screen: "ilryapp.NewsFeed",
               icon: sources[0],
               navigatorButtons:{
                     leftButtons: [
@@ -34,27 +33,13 @@ const startTabs = () => {
                     ]
                 }
           },
-          {
-              screen: "ilryapp.NewsFeedTwo",
-              label: "Find Place",
-              title: "Find Place",
-              icon: sources[0],
-              navigatorButtons:{
-                    leftButtons: [
-                        {
-                            icon: sources[1],
-                            title: "Menu",
-                            id: "sideDrawerToggle"
-                        }
-                    ]
-                }
-          }
-        ],
+          
         drawer: {
             left: { // optional, define if you want a drawer from the left
                 screen: 'ilryapp.SideDrawer', // unique ID registered with Navigation.registerScreen
                 //In case we want to pass info to the drawer:
                 passProps: {}, // simple serializable object that will pass as props to all top screens (optional),
+                fixedWidth: Dimensions.get("window").width * 1.5
             },
         }
       });

@@ -4,16 +4,16 @@
         "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/color-v23/design_tint_password_toggle.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
@@ -24,20 +24,16 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_default.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
@@ -60,12 +56,12 @@
         "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_track.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
@@ -76,12 +72,8 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/color-v23/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
@@ -92,16 +84,16 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_spinner.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
@@ -112,12 +104,16 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
@@ -126,6 +122,10 @@
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",

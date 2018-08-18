@@ -102,7 +102,7 @@
         ]
     },
     {
-        "outputFile": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+        "outputFile": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -113,7 +113,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
+                    "file": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -132,7 +132,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
+                    "file": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -151,7 +151,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
+                    "file": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -170,7 +170,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
+                    "file": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -190,7 +190,7 @@
                     "endOffset": 505
                 },
                 "from": {
-                    "file": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/values-land/values-land.xml",
+                    "file": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

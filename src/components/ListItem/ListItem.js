@@ -1,29 +1,72 @@
 import React from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Image, Platform } from 'react-native';
 
+import imageShare from '../../assets/share.png'
 
 const listItem = (props) => (
     <TouchableOpacity onPress={props.onItemPressed}>
         <View style={styles.listItem}>
-            <Image source={props.placeImage} style={styles.placeImage}/>
-            <Text>{props.placeName}</Text>
+            <View style={styles.upperView}>
+                <Text style={styles.upperText}>{props.newsName}</Text>
+                <Text style={styles.subText}>{props.newsDate}</Text>
+            </View>
+            <View style={styles.subView}>
+                <TouchableOpacity style={styles.imageView} onPress={() => alert("share on social")}>
+                    <Image source={imageShare} style={styles.previewImage}/>
+                </TouchableOpacity>
+            </View>
         </View>
     </TouchableOpacity>
 );
 
 const styles = StyleSheet.create({
     listItem: {
-        width: "100%",
+        width: "95%",
         padding: 10,
-        backgroundColor: "#eee",
-        marginBottom: 5,
-        flexDirection: "row",
-        alignItems: "center"
+        ...Platform.select({
+            ios: {
+                backgroundColor: "#eee",
+            },
+            android: {
+              backgroundColor: 'white',
+            },
+          }),
+        
+        marginBottom: 10,
+        marginLeft: 10,
+        marginRight: 10,
+        marginTop: 10,
+        flexDirection: "column",
+        //Shadow
+        shadowOffset: { width: 5, height: 5 },
+        shadowColor: 'black',
+        shadowOpacity: 0.5,
+        elevation: 3
     },
-    placeImage:{
-        marginRight: 8,
-        height: 60,
-        width: 60
+    upperView: {
+        flex: 1,
+        alignItems: "flex-start",
+        marginRight: 25
+    },
+    upperText: {
+        fontFamily: 'openSans',
+        fontSize: 20
+    },
+    subText:{ 
+        fontFamily: 'openSans',
+        fontSize: 10
+    },
+    subView:{ 
+        flex: 1,
+        alignItems: "flex-end"
+    },
+    imageView: {
+        width: 50,
+        height: 40
+    },
+    imageShare: {
+        width: 10,
+        height: 10
     }
 });
 

@@ -1,7 +1,7 @@
 [
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
@@ -12,15 +12,15 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     },
     {
-        "merged": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/alessiospallino/Desktop/rn-course TWO/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
-    },
-    {
         "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
     }
 ]

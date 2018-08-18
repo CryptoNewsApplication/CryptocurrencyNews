@@ -1,62 +1,17 @@
 import React, {Component} from 'react';
-import { View, TextInput, Button, StyleSheet } from 'react-native';
+import { View, TextInput, Button } from 'react-native';
 
-class InputContainer extends Component {
+import DefaultInput from '../../components/UI/DefaultInput/DefaultInput'
 
-    //Register some state
-    state = {
-        placeName: '',
-    }
+const inputContainer = props => (
+    
+    <DefaultInput placeholder="place name" 
+        value={props.newsName} 
+        onChangeText={props.onChangeText}/>
 
-    placeNameChangedHandler = val => {
-        this.setState({
-          placeName: val
-        });
-    }
-
-    placeSubmitHandler = (props) => {
-        if(this.state.placeName.trim() === "") {
-          return;
-        }
-        
-        this.props.onPlaceAdded(this.state.placeName);
-    };
-
-    render(){
-        return (
-            <View style={styles.inputContainer}>
-                <TextInput
-                style={styles.placeInput}
-                placeholder="An awesome place"
-                value={this.state.placeName}
-                onChangeText={this.placeNameChangedHandler}/>
-                <Button 
-                style={styles.placeButton}
-                onPress={this.placeSubmitHandler}
-                title="Add" 
-                />
-            </View>
-        )
-    }
-}
-
-const styles = StyleSheet.create({
-    inputContainer: {
-        //flex: 1,
-        width: "100%",
-        flexDirection: "row",
-        justifyContent: "space-between",
-        alignItems: "center"
-      },
-      placeInput: {
-        width: "70%"
-      },
-      placeButton: {
-        width: "30%"
-      },
-});
+);
+    
 
 
-
-export default InputContainer;
+export default inputContainer;
 
