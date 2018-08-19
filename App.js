@@ -5,7 +5,12 @@ import { Provider } from 'react-redux';
 import AuthScreen from './src/screens/Auth/Auth'
 import AuthScreenTwo from './src/screens/Auth/AuthTwo'
 
+import NewsFeedBl from './src/screens/NewsFeed/NewsFeedBl'
+import NewsFeedEx from './src/screens/NewsFeed/NewsFeedEx'
+import NewsFeedGvr from './src/screens/NewsFeed/NewsFeedGvr'
+import NewsFeedAn from './src/screens/NewsFeed/NewsFeedAn'
 import NewsFeed from './src/screens/NewsFeed/NewsFeed'
+
 import NewsDetail from './src/screens/NewsDetail/NewsDetail'
 import SideDrawer from './src/screens/SideDrawer/SideDrawer'
 
@@ -24,6 +29,11 @@ Navigation.registerComponent("ilryapp.AuthScreen", () => AuthScreen, store, Prov
 Navigation.registerComponent("ilryapp.AuthScreenTwo", () => AuthScreenTwo, store, Provider);
 
 Navigation.registerComponent("ilryapp.NewsFeed", () => NewsFeed, store, Provider);
+Navigation.registerComponent("ilryapp.NewsFeedBl", () => NewsFeedBl, store, Provider);
+Navigation.registerComponent("ilryapp.NewsFeedEx", () => NewsFeedEx, store, Provider);
+Navigation.registerComponent("ilryapp.NewsFeedGvr", () => NewsFeedGvr, store, Provider);
+Navigation.registerComponent("ilryapp.NewsFeedAn", () => NewsFeedAn, store, Provider);
+
 Navigation.registerComponent("ilryapp.NewsDetail", () => NewsDetail, store, Provider);
 
 Navigation.registerComponent("ilryapp.SideDrawer", () => SideDrawer, store, Provider);

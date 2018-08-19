@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import { View, StyleSheet, Animated, ActivityIndicator } from 'react-native';
+import { View, StyleSheet, Animated, ActivityIndicator, Share } from 'react-native';
 
 import { connect } from 'react-redux';
 
@@ -32,7 +32,7 @@ class NewsFeed extends Component {
         this.props.navigator.setStyle({
             navBarTextColor: 'white',
             navBarButtonColor: 'white',
-            navBarBackgroundColor: '#1CA2DC',
+            navBarBackgroundColor: 'black',
             //drawUnderNavBar: true,
             //navBarTranslucent: true,
             //navBarTransparent: true,
@@ -63,7 +63,7 @@ class NewsFeed extends Component {
     }
 
     itemSelectedHandler = key => {
-        const selNews = this.props.ilryNews.find(oneNews =>{
+        const selNews = this.props.generalNews.find(oneNews =>{
             return oneNews.key === key;
         });
 
@@ -77,6 +77,21 @@ class NewsFeed extends Component {
                 selectedNews: selNews
             }
         });
+    }
+
+    itemShareHandler = key => {
+        const selNews = this.props.generalNews.find(oneNews =>{
+            return oneNews.key === key;
+        });
+
+        Share.share({
+            message: selNews.description,
+            url: selNews.url,
+            title: selNews.title
+        }, {
+            // Android only:
+            dialogTitle: selNews.title
+        })
     }
 
     onNavigatorEvent = event => {
@@ -98,8 +113,9 @@ class NewsFeed extends Component {
         let content = (
             <View>
                 <NewsList 
-                    news={this.props.ilryNews} 
-                    onItemSelected={this.itemSelectedHandler}/>
+                    news={this.props.generalNews} 
+                    onItemSelected={this.itemSelectedHandler}
+                    onShareSelected={this.itemShareHandler}/>
             </View>
         );
         if(this.props.isLoading) {
@@ -135,7 +151,7 @@ const styles = StyleSheet.create({
 });
 const mapStateToProps = state => {
     return {
-        ilryNews: state.news.ilryNews,
+        generalNews: state.news.generalNews,
         isLoading: state.ui.isLoading
     };
 };

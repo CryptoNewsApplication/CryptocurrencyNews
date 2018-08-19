@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Text, Dimensions, StyleSheet, TouchableOpacity, ScrollView, Image, AsyncStorage } from 'react-native';
 import { connect } from 'react-redux'
-import imageLogo from '../../assets/ilry_white_logo.png'
+import imageLogo from '../../assets/CCNLogo.png'
 
 import Icon from 'react-native-vector-icons/Ionicons'
 import Platform from 'react-native'
@@ -94,7 +94,7 @@ class SideDrawer extends Component {
                         <Text style={styles.titlesText}>General</Text>
                     </View>
                 </TouchableOpacity>
-                <TouchableOpacity>
+                <TouchableOpacity onPress={() => this.callScreenHandler("NewsFeedBl", "")}>
                     <View style={styles.drawerItem}>
                         <Icon 
                             name="logo-bitcoin" 
@@ -104,7 +104,7 @@ class SideDrawer extends Component {
                         <Text style={styles.titlesText}>Blockchain</Text>
                     </View>
                 </TouchableOpacity>
-                <TouchableOpacity>
+                <TouchableOpacity onPress={() => this.callScreenHandler("NewsFeedEx", "")}>
                     <View style={styles.drawerItem}>
                         <Icon 
                             name="md-code-working"
@@ -114,7 +114,7 @@ class SideDrawer extends Component {
                         <Text style={styles.titlesText}>Exchanges</Text>
                     </View>
                 </TouchableOpacity>
-                <TouchableOpacity>
+                <TouchableOpacity onPress={() => this.callScreenHandler("NewsFeedGvr", "")}>
                     <View style={styles.drawerItem}>
                         <Icon 
                             name="md-globe" 
@@ -124,7 +124,7 @@ class SideDrawer extends Component {
                         <Text style={styles.titlesText}>Government</Text>
                     </View>
                 </TouchableOpacity>
-                <TouchableOpacity>
+                <TouchableOpacity onPress={() => this.callScreenHandler("NewsFeedAn", "")}>
                     <View style={styles.drawerItem}>
                         <Icon 
                             name="md-pulse" 
@@ -169,13 +169,14 @@ const styles = StyleSheet.create({
         marginBottom: 10
     },
     imageLogo: {
+        marginTop: 20,
         flex: 1,
         width: "100%",
         height: "100%",
         resizeMode: 'contain'
     },
     headerText: {
-        flex: 1,
+        flex: 0.3,
         color: "white",
         padding: 10,
         marginTop: 20

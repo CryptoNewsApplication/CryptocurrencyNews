@@ -2,13 +2,16 @@ import React from 'react';
 import { StyleSheet, FlatList } from 'react-native';
 import ListItem from '../ListItem/ListItem';
 
+import imageShare from '../../assets/share.png'
+
 const newsList = props => {
 
     const newsOutput = props.news.map((oneNews, i) => (
         <ListItem 
             key={i} 
-            newsName={oneNews}
-            newsDate={oneNews}
+            newsTitle={oneNews}
+            newsDescription={oneNews}
+            newsSource={oneNews}
             onItemPressed={() => [props.onItemDeleted(i)]}/>
     ));
 
@@ -18,10 +21,12 @@ const newsList = props => {
             data={props.news}
             renderItem={(info) => (
                 <ListItem 
-                    newsName={info.item.name}
-                    newsDate={info.item.pubdate}
-                    //placeImage={info.item.image}
+                    newsTitle={info.item.title}
+                    newsDescription={info.item.description}
+                    newsSource={info.item.source.url}
+                    firstImage={info.item.originalImageUrl}
                     onItemPressed={() => [props.onItemSelected(info.item.key)]}
+                    onSharePressed={() => [props.onShareSelected(info.item.key)]}
                 />
             )}
         />   

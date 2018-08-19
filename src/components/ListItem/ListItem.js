@@ -7,11 +7,13 @@ const listItem = (props) => (
     <TouchableOpacity onPress={props.onItemPressed}>
         <View style={styles.listItem}>
             <View style={styles.upperView}>
-                <Text style={styles.upperText}>{props.newsName}</Text>
-                <Text style={styles.subText}>{props.newsDate}</Text>
+                <Image source={{uri: props.firstImage}} style={styles.firstImage}/>
+                <Text style={styles.upperText}>{props.newsTitle}</Text>
+                <Text style={styles.midText}>{props.newsDescription}</Text>
+                <Text style={styles.subText}>{props.newsSource}</Text>
             </View>
             <View style={styles.subView}>
-                <TouchableOpacity style={styles.imageView} onPress={() => alert("share on social")}>
+                <TouchableOpacity style={styles.imageView} onPress={props.onSharePressed}>
                     <Image source={imageShare} style={styles.previewImage}/>
                 </TouchableOpacity>
             </View>
@@ -43,6 +45,13 @@ const styles = StyleSheet.create({
         shadowOpacity: 0.5,
         elevation: 3
     },
+    firstImage:{
+        marginTop: 8,
+        marginBottom: 8,
+        height: 100,
+        width: 100,
+        borderRadius: 10
+    },
     upperView: {
         flex: 1,
         alignItems: "flex-start",
@@ -51,6 +60,10 @@ const styles = StyleSheet.create({
     upperText: {
         fontFamily: 'openSans',
         fontSize: 20
+    },
+    midText: {
+        fontFamily: 'openSans',
+        fontSize: 15
     },
     subText:{ 
         fontFamily: 'openSans',

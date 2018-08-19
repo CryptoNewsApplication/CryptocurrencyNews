@@ -5,7 +5,6 @@ import { View, Image, Text, Button, StyleSheet,TouchableOpacity, WebView } from 
 
 import Icon from 'react-native-vector-icons/Ionicons';
 import { deletePlace } from '../../store/actions/index';
-import cleanNewsHtml from '../../utility/cleanNewsHtml';
 
 class NewsDetail extends Component {
 
@@ -15,16 +14,12 @@ class NewsDetail extends Component {
         this.props.navigator.setStyle({
             navBarTextColor: 'white',
             navBarButtonColor: 'white',
-            navBarBackgroundColor: '#1CA2DC'
+            navBarBackgroundColor: 'black'
         });
     }
 
     placeDeletedHandler = () => {
         this.props.onDeletePlace(this.props.selectedNews.key);
-
-        /* POP deletes the current page from the stack and it goes back.
-        there is also POPTOROOT in documentation, we need it if we want to go back to the root page! */
-        
         this.props.navigator.pop();
     }
 
@@ -35,14 +30,14 @@ class NewsDetail extends Component {
         return (
             <View style={styles.container}>
                 <View style={styles.newsInfo}>
-                    <Text style={styles.upperText}>{this.props.selectedNews.name}</Text>
-                    <Text style={styles.subText}>{this.props.selectedNews.pubdate}</Text>
+                    <Text style={styles.upperText}>{this.props.selectedNews.title}</Text>
+                    <Text style={styles.subText}>{this.props.selectedNews.source.url}</Text>
                 </View>
                 
                 <WebView
-                    source={{uri: this.props.selectedNews.link}}
+                    source={{uri: this.props.selectedNews.url}}
                     style={{marginTop: 5}}
-                    injectedJavaScript={cleanNewsHtml(this.props.selectedNews.type)}      
+                    //injectedJavaScript={cleanNewsHtml(this.props.selectedNews.type)}
                     javaScriptEnabled={true}
                     domStorageEnabled={true}
                     startInLoadingState={true}
@@ -60,7 +55,7 @@ const styles = StyleSheet.create({
         flex: 1
     },
     newsInfo: {
-        backgroundColor: "#6639B7"
+        backgroundColor: "black"
     },
     upperText: {
         fontFamily: 'openSans',

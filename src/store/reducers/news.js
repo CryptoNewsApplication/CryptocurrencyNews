@@ -1,11 +1,11 @@
 import { ADD_PLACE, DELETE_PLACE, SET_NEWS } from "../actions/actionTypes";
 
 const initialState = {
-    news: [],
-    ilryNews: [],
-    ytnNews: [],
-    insinooriNews: [],
-    akavaNews: []
+    generalNews: [],
+    blockchainNews: [],
+    exchangesNews: [],
+    governmentNews: [],
+    analysisNews: []
 };
 
 //if we don't have a state, we start from the initial one (state = initialState)
@@ -14,10 +14,11 @@ const reducer = (state = initialState, action) => {
         case SET_NEWS:
             return {
                 ...state,
-                ilryNews: action.ilryNews,
-                ytnNews: action.ytnNews,
-                insinooriNews: action.insinooriNews,
-                akavaNews: action.akavaNews
+                generalNews: action.generalNews,
+                blockchainNews: action.blockchainNews,
+                exchangesNews: action.exchangesNews,
+                governmentNews: action.governmentNews,
+                analysisNews: action.analysisNews
             };
         case ADD_PLACE:
             return {
