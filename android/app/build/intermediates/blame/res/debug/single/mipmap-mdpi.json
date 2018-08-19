@@ -1,14 +1,10 @@
 [
     {
-        "merged": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/Users/alessiospallino/github_projects/CryptocurrencyNews/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/alessiospallino/Desktop/last/rn-course/android/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
-        "source": "/Users/alessiospallino/Desktop/last/rn-course/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

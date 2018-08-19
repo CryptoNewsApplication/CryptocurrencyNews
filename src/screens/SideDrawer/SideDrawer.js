@@ -89,7 +89,7 @@ class SideDrawer extends Component {
                         <Icon 
                             name="md-paper" 
                             size={40} 
-                            color="#ffffff"
+                            color="black"
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>General</Text>
                     </View>
@@ -99,7 +99,7 @@ class SideDrawer extends Component {
                         <Icon 
                             name="logo-bitcoin" 
                             size={40} 
-                            color="#ffffff"
+                            color="black"
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>Blockchain</Text>
                     </View>
@@ -109,7 +109,7 @@ class SideDrawer extends Component {
                         <Icon 
                             name="md-code-working"
                             size={40} 
-                            color="#ffffff"
+                            color="black"
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>Exchanges</Text>
                     </View>
@@ -119,7 +119,7 @@ class SideDrawer extends Component {
                         <Icon 
                             name="md-globe" 
                             size={40} 
-                            color="#ffffff"
+                            color="black"
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>Government</Text>
                     </View>
@@ -129,7 +129,7 @@ class SideDrawer extends Component {
                         <Icon 
                             name="md-pulse" 
                             size={40} 
-                            color="#ffffff"
+                            color="black"
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>Analysis</Text>
                     </View>
@@ -139,7 +139,7 @@ class SideDrawer extends Component {
                         <Icon 
                             name="ios-log-out" 
                             size={40} 
-                            color="#ffffff"
+                            color="black"
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>Logout</Text>
                     </View>
@@ -154,11 +154,11 @@ class SideDrawer extends Component {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: "black",
+        backgroundColor: "white",
         flex: 1
     },
     header: {
-        backgroundColor: "#e6bc53",
+        backgroundColor: "black",
         height: "30%",
     },
     headerContent: {
@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
         marginTop: 20
     },
     titlesText: {
-        color: "white",
+        color: "black",
     },
     drawerItem: {
         flexDirection: "row",
