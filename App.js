@@ -3,7 +3,6 @@ import { Navigation } from 'react-native-navigation';
 import { Provider } from 'react-redux';
 
 import AuthScreen from './src/screens/Auth/Auth'
-import AuthScreenTwo from './src/screens/Auth/AuthTwo'
 
 import NewsFeedBl from './src/screens/NewsFeed/NewsFeedBl'
 import NewsFeedEx from './src/screens/NewsFeed/NewsFeedEx'
@@ -26,7 +25,6 @@ const store = configureStore();
 
 //Register screens
 Navigation.registerComponent("ilryapp.AuthScreen", () => AuthScreen, store, Provider);
-Navigation.registerComponent("ilryapp.AuthScreenTwo", () => AuthScreenTwo, store, Provider);
 
 Navigation.registerComponent("ilryapp.NewsFeed", () => NewsFeed, store, Provider);
 Navigation.registerComponent("ilryapp.NewsFeedBl", () => NewsFeedBl, store, Provider);

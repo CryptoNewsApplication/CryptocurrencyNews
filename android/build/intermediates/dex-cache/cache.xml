@@ -192,6 +192,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-auth0/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eda8e3c4339b2223672c8755b50b0b2a4481317e">
+        <dex dex="/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/pre-dexed/debug/rncourse-react-native-auth0-unspecified_eb4e7963afa4adb3f4d4bc5c7a4d8364c1f5e6ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -783,6 +792,15 @@
         revision="27.0.1"
         sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
         <dex dex="/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_2496ed84cd010bb555f3f3a973092eb8d0c20335.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e4a9d42c6d45eed4fd52f28dee859884131eae4c">
+        <dex dex="/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.0.1_5b2c6cba0a9ce812490b772031a2f686c27086fd.jar" />
     </item>
     <item
         is-multidex="false"

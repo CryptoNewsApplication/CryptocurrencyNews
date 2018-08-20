@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Text, Dimensions, StyleSheet, TouchableOpacity, ScrollView, Image, AsyncStorage } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Image, AsyncStorage } from 'react-native';
 import { connect } from 'react-redux'
 import imageLogo from '../../assets/CCNLogo.png'
 
@@ -78,9 +78,9 @@ class SideDrawer extends Component {
             <View style={styles.header}>
                 <View style={styles.headerContent}>
                     <Image source={imageLogo} style={styles.imageLogo}/>
-                    <Text style={styles.headerText}>
+                    {/*<Text style={styles.headerText}>
                         {this.state.userName}
-                    </Text>
+                    </Text>*/}
                 </View>
             </View>
             <ScrollView>
@@ -134,7 +134,7 @@ class SideDrawer extends Component {
                         <Text style={styles.titlesText}>Analysis</Text>
                     </View>
                 </TouchableOpacity>
-                <TouchableOpacity onPress={this.props.onLogout}>
+                {/*<TouchableOpacity onPress={this.props.onLogout}>
                     <View style={styles.drawerItem}>
                         <Icon 
                             name="ios-log-out" 
@@ -143,7 +143,7 @@ class SideDrawer extends Component {
                             style={styles.drawerItemIcon}/>
                         <Text style={styles.titlesText}>Logout</Text>
                     </View>
-                </TouchableOpacity>
+                </TouchableOpacity>*/}
             </ScrollView>
             </View>
             

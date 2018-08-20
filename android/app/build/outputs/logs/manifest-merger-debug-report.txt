@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-35:12
 	package
 		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:2:5-27
 		INJECTED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml
@@ -23,7 +23,9 @@ MERGED from [com.facebook.react:react-native:0.55.4] /Users/alessiospallino/reac
 	android:name
 		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:5:22-75
 application
-ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:7:5-24:19
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:7:5-33:19
+MERGED from [rncourse:react-native-auth0:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-auth0/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:customtabs:23.0.1] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [rncourse:react-native-navigation:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/AndroidManifest.xml:11:5-18:19
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/AndroidManifest.xml:3:3-17
@@ -53,7 +55,7 @@ MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/alessiospallino
 	android:name
 		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:8:7-38
 activity#com.rncourse.MainActivity
-ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:13:7-31:18
 	android:label
 		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
@@ -72,15 +74,39 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
 		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:20:23-70
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:22:11-30:27
+action#android.intent.action.VIEW
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:23:15-67
+	android:name
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:23:23-64
+category#android.intent.category.DEFAULT
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:24:15-74
+	android:name
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:24:25-71
+category#android.intent.category.BROWSABLE
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:25:15-76
+	android:name
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:25:25-73
+data
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:26:15-29:51
+	android:host
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:27:19-57
+	android:scheme
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:29:19-48
+	android:pathPrefix
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:28:19-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:32:7-84
 MERGED from [rncourse:react-native-navigation:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from [rncourse:react-native-navigation:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:32:17-81
 uses-sdk
 INJECTED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [rncourse:react-native-auth0:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-auth0/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:customtabs:23.0.1] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.0.1/AndroidManifest.xml:20:5-44
 MERGED from [rncourse:react-native-vector-icons:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [rncourse:react-native-navigation:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/AndroidManifest.xml:7:5-9:41
@@ -122,11 +148,11 @@ ADDED from [rncourse:react-native-navigation:unspecified] /Users/alessiospallino
 	android:name
 		ADDED from [rncourse:react-native-navigation:unspecified] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/AndroidManifest.xml:13:13-84
 android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 android:uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/AndroidManifest.xml:1:1-35:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/AndroidManifest.xml:22:5-24:34

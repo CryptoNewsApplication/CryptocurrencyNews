@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
