@@ -76,10 +76,6 @@
         "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color/abc_tint_switch_thumb.xml"
-    },
-    {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/res/color/abc_search_url_text.xml"
     },

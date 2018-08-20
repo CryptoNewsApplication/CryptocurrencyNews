@@ -84,12 +84,12 @@
         "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/res/anim/abc_fade_out.xml"
-    },
-    {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
         "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
