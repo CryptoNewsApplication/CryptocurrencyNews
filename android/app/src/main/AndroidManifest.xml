@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.rncourse">
+    package="com.cryptocurrencynews">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
@@ -25,8 +25,8 @@
               <category android:name="android.intent.category.BROWSABLE" />
               <data
                   android:host="cryptonews.eu.auth0.com"
-                  android:pathPrefix="/android/com.rncourse/callback"
-                  android:scheme="com.rncourse" />
+                  android:pathPrefix="/android/com.cryptocurrencynews/callback"
+                  android:scheme="com.cryptocurrencynews" />
           </intent-filter>
       </activity>
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />

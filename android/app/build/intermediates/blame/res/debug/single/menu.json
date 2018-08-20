@@ -1,10 +1,10 @@
 [
     {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
-        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/menu/search_item.xml"
+        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/cryptocurrencynews/react-native-navigation/unspecified/res/menu/search_item.xml"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
-        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/rncourse/react-native-navigation/unspecified/res/menu/stub.xml"
+        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/cryptocurrencynews/react-native-navigation/unspecified/res/menu/stub.xml"
     }
 ]
