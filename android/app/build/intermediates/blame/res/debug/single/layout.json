@@ -12,20 +12,20 @@
         "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
-        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/dev_loading_view.xml"
-    },
-    {
-        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_navigation_item_header.xml"
+        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/res/layout/dev_loading_view.xml"
     },
     {
         "merged": "/Users/alessiospallino/react_ex/rn-course/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
