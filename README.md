@@ -1,5 +1,7 @@
 ## INFO
 
+![](showapp.gif)
+
 ```
 This application shows different news related to the cryptocurrency field.
 The navigation is managed with a drawer that has five links to different categories. 

@@ -903,6 +903,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/alessiospallino/Library/Android/sdk/build-tools/26.0.1/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6e81b059b564e20e1430f42fb38469a4d8f118f0">
+        <dex dex="/Users/alessiospallino/react_ex/CryptocurrencyNews/android/app/build/intermediates/pre-dexed/release/renderscript-v8_38c6759040afc8f771228b99c634bea0b1fbed1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/alessiospallino/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
         jumboMode="false"
         optimize="true"
