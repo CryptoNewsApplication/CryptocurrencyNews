@@ -12,5 +12,5 @@ const RNRedux = () => (
     </Provider>
 );
 
-AppRegistry.registerComponent('rncourse', () => RNRedux);
+AppRegistry.registerComponent('cryptocurrencynews', () => RNRedux);
  

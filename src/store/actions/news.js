@@ -1,12 +1,5 @@
-import { ADD_PLACE, DELETE_PLACE, SET_NEWS } from './actionTypes';
-import { uiStartLoading, uiStopLoading, authGetToken } from './index';
-
-export const addPlace = (newsName) => {
-    return {
-        type: ADD_PLACE,
-        newsName: newsName
-    };
-}
+import { SET_NEWS } from './actionTypes';
+import { uiStartLoading, uiStopLoading} from './index';
 
 export const getNews = () => {
     return dispatch => {
@@ -77,10 +70,3 @@ export const setNews = (generalNews, blockchainNews, exchangesNews, governmentNe
         analysisNews: analysisNews
     };
 };
-
-export const deletePlace = (key) => {
-    return {
-        type: DELETE_PLACE,
-        placeKey: key
-    };
-}
