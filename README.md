@@ -1,6 +1,6 @@
 ## INFO
 
-![](showapp.gif)
+![Alt Text](showapp.gif)
 
 ```
 This application shows different news related to the cryptocurrency field.
